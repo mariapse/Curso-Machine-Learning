@@ -14,6 +14,7 @@ M5-01- Phyton Notebook
   - Generadores
   - Comprension de listas
   - Tuplas
+  
 M5-02- Condicionales
   - Operadores de comparación
   - Consideraciones de elementos que Phyton considera 'False'
