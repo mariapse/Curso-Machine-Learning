@@ -5,7 +5,7 @@ Phyton Notebook
   - Variables y tipos
   - Listas
   - Operadores
-  - Formato de Cadena ('string')
+  - Formato de Cadena
   - Condiciones
   - Bucles
   - Funciones
