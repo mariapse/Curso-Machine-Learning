@@ -1,4 +1,4 @@
-# Curso-Machine-Learning
+# Curso Machine Learning
 
 ## Día 1
 Phyton Notebook
