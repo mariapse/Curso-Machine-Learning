@@ -37,3 +37,18 @@ SpaceX - 1. Predecir si un Falcon 9 aterrizará con éxito o no
   
  SpaceX - 3. Análisis de datos utilizando SQL. 
   - Creación de querys
+  
+ ## Día 3
+ Folium
+  - Generar mapas
+  - Stamen Toner Maps
+  - Stamen Terrain Maps
+  - Mapas con indicadores
+  
+ Introducción a Machine Learning con Scikit-Learn
+  - Test y Train
+  - Los Hiperparametros (GridSearchCV)
+  
+ Prophet - Predecir series temporales desarrolladas por Facebook
+  - Entrenar y predecir el modelo
+  
