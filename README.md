@@ -1,7 +1,7 @@
 # Curso-Machine-Learning
 
 ## Día 1
-M5-01- Phyton Notebook
+Phyton Notebook
   - Variables y tipos
   - Listas
   - Operadores
@@ -15,12 +15,12 @@ M5-01- Phyton Notebook
   - Comprension de listas
   - Tuplas
   
-M5-02- Condicionales
+Condicionales
   - Operadores de comparación
   - Consideraciones de elementos que Phyton considera 'False'
   - Ejercicios
   
-M5-03- Bucles
+Bucles
   - Función While
   - Bucle Infinito
   - Iteracion con for
