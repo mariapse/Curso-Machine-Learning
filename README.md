@@ -51,4 +51,13 @@ SpaceX - 1. Predecir si un Falcon 9 aterrizará con éxito o no
   
  Prophet - Predecir series temporales desarrolladas por Facebook
   - Entrenar y predecir el modelo
+ 
+ ## Día 4
+ Space X2- Machine Learning Predicciones
+  - Estandarizar los datos
+  - Datos de entrenamiento y prueba
+ 
+ Space X2- Interactive Visual Analytics con Folium
+  - Marcar lanzamientos exitosos/fracasados
+  - Calcular las distancias entre dos sitios
   
